@@ -1,0 +1,6 @@
+print('z' > 'x')
+print('k' <= '5')
+print('ab' < 'ac')
+print('Ab' == 'aB')
+print('3' < '13')
+print('100' < 'aB')

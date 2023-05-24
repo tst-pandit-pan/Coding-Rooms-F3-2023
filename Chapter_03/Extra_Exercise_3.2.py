@@ -1,0 +1,1 @@
+print("The area of the circle of radius 6 meters is", (3.1415926*(6**2)) , "square meters.") # fill in an appropriate formula to replace 'here'
