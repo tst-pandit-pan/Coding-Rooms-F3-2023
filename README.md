@@ -64,14 +64,11 @@ Chapter_4:
     -= minus number
     /= divide number
     *= times number
-    ** power square root number
-    %= number module into right hand side
+
     
 Chapter_5:
     
     abs(x) make negative number to positive
-    max(x, y, z) tell u the biggest number of x, y, z
-    min(x, y, z) tell u the smallest number of x, y, z
     pow(-2, 3) gives out -8, (-2)³
     round() round off the number
     len() tell you how many number of text
@@ -88,20 +85,14 @@ Chapter_7:
     x >= y bigger or equal
     x <= y smaller or equal
 
-    "0"<"1"<"A"<"B"<"a"<"z"
-    Ab != aB computer check the first character and in order if no difference
-
-    pring(sth in sth) computer tell you true or false
+    print(sth in sth) computer tell you true or false
     a and b
     a or b
-    (not a) means if a is true then it false you
 
 Chapter_8:
 
     if else elif
-    remember add :
-    if sth and sth:
-        print(sth)
+
     
 Chapter_9:
 
@@ -117,15 +108,6 @@ Chapter_9:
     4
     Done
 
-    for x in range(20,25):
-        print(X)
-
-    It gives out
-    20
-    21
-    22
-    23
-    24
 
     for x in range (2000, 2016, 4):
         print(x)
@@ -135,18 +117,3 @@ Chapter_9:
     2004
     2008
     2012
-
-    for x in range (20, 3, -2):
-        print(x)
-
-    It gives out
-    20
-    18
-    16
-    14
-    12
-    10
-    8
-    6
-    4
-    2
